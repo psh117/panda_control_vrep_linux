@@ -6,8 +6,9 @@
 - RBDL (https://github.com/ORB-HD/rbdl-orb)
 
 ## Installation and Execution
-
 ```sh
+git clone --recursive https://github.com/psh117/panda_control_vrep_linux
+cd panda_control_vrep_linux
 mkdir build
 cd build
 cmake ..
