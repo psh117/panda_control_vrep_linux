@@ -1,0 +1,9 @@
+[submodule "vrep_src/remoteApi"]
+	path = vrep_src/remoteApi
+	url = git@github.com:CoppeliaRobotics/remoteApi.git
+[submodule "vrep_src/include"]
+	path = vrep_src/include
+	url = git@github.com:CoppeliaRobotics/include.git
+[submodule "vrep_src/common"]
+	path = vrep_src/common
+	url = git@github.com:CoppeliaRobotics/common.git
